@@ -1,6 +1,6 @@
 # Description
 
-#### BorderShapes by [JayWilson](https://github.com/JayWilson7)
+#### BorderShapes by [JayWilson](https://github.com/JayWilson7) (but its just for avatars)
 
 Custom border shapes for elements.
 
