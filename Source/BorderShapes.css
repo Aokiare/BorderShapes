@@ -537,7 +537,7 @@ button,
 [mask="url(#svg-mask-squircle)"],
 #app-mount .popout-server-search .image-33JSyf {
    mask: none;
-   border-radius: var(--borders-servers-1);
+   border-radius: var(--borders-servers);
 }
 #app-mount .folderIconWrapper-226oVY,
 #app-mount .avatarUploaderInner-3UNxY3,
@@ -550,14 +550,14 @@ button,
 #app-mount .filledIcon-2eb7eA,
 #app-mount .guildIcon-nSLcmS,
 #app-mount .bd-server-icon {
-   border-radius: var(--borders-servers-1);
+   border-radius: var(--borders-servers);
 }
 #app-mount .voiceSectionAssets-1gjfmz,
 #app-mount .voiceSectionGuildImage-3HwnfL,
 #app-mount .voiceSectionNoGuildImageWrapper-TicZR3 {
    mask: none;
    -webkit-mask: none;
-   border-radius: var(--borders-servers-1);
+   border-radius: var(--borders-servers);
 }
 #app-mount .numberBadge-2s8kKX,
 #app-mount .base-PmTxvP {
